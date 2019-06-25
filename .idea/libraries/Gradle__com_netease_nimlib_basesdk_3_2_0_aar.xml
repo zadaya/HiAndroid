@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.netease.nimlib:basesdk:3.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/basesdk-3.2.0.aar/9d74d4340b5b3bf6d4a2f54f03a2c50f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/basesdk-3.2.0.aar/9d74d4340b5b3bf6d4a2f54f03a2c50f/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/basesdk-3.2.0.aar/9d74d4340b5b3bf6d4a2f54f03a2c50f/jars/libs/cosinesdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netease.nimlib/basesdk/3.2.0/bba03d3d8a3fcb1ccc9a01fd80070a5e3e84c7fc/basesdk-3.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

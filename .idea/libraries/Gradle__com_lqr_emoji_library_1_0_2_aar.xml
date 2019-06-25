@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.lqr.emoji:library:1.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.2.aar/5bf304b6fb0331e008a3e1ba2db82b4c/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.2.aar/5bf304b6fb0331e008a3e1ba2db82b4c/jars/libs/universal-image-loader-1.9.5.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.2.aar/5bf304b6fb0331e008a3e1ba2db82b4c/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.lqr.emoji/library/1.0.2/fe87cf308ae18494eda91d3c0fe9d3113f9cf14/library-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
