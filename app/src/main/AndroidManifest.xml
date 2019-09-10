@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.hi"
     >
 
     <!-- 视频录制的权限star   -->
     <!-- sd卡写入权限  -->
-    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"
+        tools:ignore="ProtectedPermissions" />
     <!-- 硬件支持   -->
     <uses-feature android:name="android.hardware.camera"/>
     <uses-feature android:name="android.hardware.camera.autofocus"/>
@@ -65,7 +67,8 @@
     <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"
+        tools:ignore="ProtectedPermissions" />
 
 
     <!--百度地图权限-->
@@ -194,7 +197,7 @@
         <activity android:name=".activity.WeiXinArticleActivity" android:screenOrientation="portrait" />
         <activity android:name=".activity.ArticleDetailActivity" android:screenOrientation="portrait" />
         <activity android:name=".activity.FunnyActivity" android:screenOrientation="portrait" />
-        <activity android:name=".activity.BaiDuImageActivity" android:screenOrientation="portrait" />        <activity android:name=".activity.BaiDuImageActivity" android:screenOrientation="portrait" />
+        <activity android:name=".activity.BaiDuImageActivity" android:screenOrientation="portrait" />
         <activity android:name=".activity.LocationActivity" android:screenOrientation="portrait" />
         <activity android:name=".activity.WelcomeActivity" android:screenOrientation="portrait" />
 

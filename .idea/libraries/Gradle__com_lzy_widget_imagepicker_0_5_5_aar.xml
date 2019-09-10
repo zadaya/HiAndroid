@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.lzy.widget:imagepicker:0.5.5@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/imagepicker-0.5.5.aar/2a4533445cc2e13af776b92a75b0947b/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/imagepicker-0.5.5.aar/2a4533445cc2e13af776b92a75b0947b/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/imagepicker-0.5.5.aar/ae03d00515a19027603196d46c0f881c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/imagepicker-0.5.5.aar/ae03d00515a19027603196d46c0f881c/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

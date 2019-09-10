@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.lqr.videorecordview:library:1.0.0@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.0.aar/e67b4dbb2ecc4098b92d4a22ff4f650a/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.0.aar/e67b4dbb2ecc4098b92d4a22ff4f650a/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.0.aar/3f1a4f6cbc20e69b58403ab0dc39908f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.0.aar/3f1a4f6cbc20e69b58403ab0dc39908f/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

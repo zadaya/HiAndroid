@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.netease.nimlib:avchat:3.2.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/avchat-3.2.0.aar/60e4766a740d1a3699215bb26862110f/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/avchat-3.2.0.aar/60e4766a740d1a3699215bb26862110f/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/avchat-3.2.0.aar/f0886e2540490d23501ef1902c8baa0d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/avchat-3.2.0.aar/f0886e2540490d23501ef1902c8baa0d/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

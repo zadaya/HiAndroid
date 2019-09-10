@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.netease.nimlib:nrtc:3.2.0@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/nrtc-3.2.0.aar/19c2930f4fde211316ce0a1bd38b4ad7/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/nrtc-3.2.0.aar/19c2930f4fde211316ce0a1bd38b4ad7/jars/libs/nrtc-sdk.jar!/" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/nrtc-3.2.0.aar/19c2930f4fde211316ce0a1bd38b4ad7/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/nrtc-3.2.0.aar/636841541f984c452f66f65bd31b9498/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/nrtc-3.2.0.aar/636841541f984c452f66f65bd31b9498/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/nrtc-3.2.0.aar/636841541f984c452f66f65bd31b9498/jars/libs/nrtc-sdk.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
