@@ -21,7 +21,7 @@
             android:src="@mipmap/app_logo" />
 
         <TextView
-            android:text="Hi圈"
+            android:text="友乎"
             android:textSize="22sp"
             android:textColor="@color/text0"
             android:layout_marginTop="10dp"

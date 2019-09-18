@@ -9,8 +9,8 @@ public class AppConst {
 //    public static final String SERVER_ADDRESS_IMG = "http://10.0.2.2:8080";
 //	public static final String SERVER_ADDRESS = "http://192.168.191.1:8080"; //手机访问本地服务器地址
 //    public static final String SERVER_ADDRESS_IMG = "http://192.168.191.1:8080";
-    public static final String SERVER_ADDRESS = "http://172.17.213.246:8080/HomeServerDemo2"; //外网
-    public static final String SERVER_ADDRESS_IMG = "http://47.94.227.97:8080";
+    public static final String SERVER_ADDRESS = "http://172.17.213.236:8080/HomeServerDemo2"; //外网
+    public static final String SERVER_ADDRESS_IMG = "http://172.17.213.236:8080";
 
 
     //版本升级

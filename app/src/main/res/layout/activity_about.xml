@@ -48,7 +48,7 @@
             android:src="@mipmap/app_logo" />
 
         <TextView
-            android:text="Hi圈"
+            android:text="友乎"
             android:textSize="30dp"
             android:textColor="@color/text0"
             android:layout_gravity="center_horizontal"
@@ -56,7 +56,7 @@
             android:layout_height="wrap_content" />
 
         <TextView
-            android:text="有什么问题可以联系我"
+            android:text="有什么问题可以联系我们"
             android:textSize="13sp"
             android:textColor="@color/text1"
             android:layout_gravity="center_horizontal"
