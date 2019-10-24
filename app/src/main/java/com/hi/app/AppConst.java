@@ -9,8 +9,8 @@ public class AppConst {
 //    public static final String SERVER_ADDRESS_IMG = "http://10.0.2.2:8080";
 //	public static final String SERVER_ADDRESS = "http://192.168.191.1:8080"; //手机访问本地服务器地址
 //    public static final String SERVER_ADDRESS_IMG = "http://192.168.191.1:8080";
-    public static final String SERVER_ADDRESS = "http://172.17.213.236:8080/HomeServerDemo2"; //外网
-    public static final String SERVER_ADDRESS_IMG = "http://172.17.213.236:8080";
+    public static final String SERVER_ADDRESS = "http://al.1024s.cn"; //外网
+    public static final String SERVER_ADDRESS_IMG = "http://al.1024s.cn";
 
 
     //版本升级
@@ -28,11 +28,11 @@ public class AppConst {
     //param:col=美女&tag=小清新&sort=0&pn=3&rn=10&p=channel&from=1  //pn=开始条数&rn=显示数量
     //百度搜索图片
     public static final String BAIDU_IMG_SEARCH = "http://image.baidu.com/search/index";
-    //param:tn=resultjson&ie=utf-8&word=周杰伦&pn=1&rn=10
+    //param:tn=resultjson&ie=utf-8&word=周杰伦&pn=1&rn=10 tn=baiduimage&ie=utf-8&word=美女
 
 
     //天行数据Key
-    public static final String TIANXINKEY = "d54d8c95b85b8c4fe651976a731538e0";
+    public static final String TIANXINKEY = "ec0255466fa5f3dd6afe4f9dd7a9f442";
     //微信文章
     public static final String TIANXIN_WEIXIN_ARTICLE = "https://api.tianapi.com/wxnew";
     //微信公众号文章

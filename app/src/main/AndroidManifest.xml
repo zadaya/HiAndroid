@@ -73,6 +73,10 @@
 
     <!--百度地图权限-->
     <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS" />
+    <!-- 这个权限用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- 这个权限用于访问GPS定位 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <!-- 获取CUID，用于鉴权，请求签名等 -->
     <uses-permission android:name="com.android.launcher.permission.WRITE_SETTINGS" />
     <!-- 这个权限用于进行网络定位 -->
@@ -103,13 +107,11 @@
         <!--###############################百度地图 begin###############################-->
         <meta-data
             android:name="com.baidu.lbsapi.API_KEY"
-            android:value="v5MYzG9TT4ir2oWMG1ISzmzXECpz6qye" />
+            android:value="37awsuySo6o8xnc1oZPEcUm30yLbZ0Ci" />
 
-        <service
-            android:name="com.baidu.location.f"
+        <service android:name="com.baidu.location.f"
             android:enabled="true"
-            android:process=":remote" >
-        </service>
+            android:process=":remote"/>
 
         <!--###############################网易云信配置 begin###############################-->
         <!-- APP key, 可以在这里设置，也可以在 SDKOptions 中提供。
